@@ -14,4 +14,5 @@
 | [1801-average-time-of-process-per-machine](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [1974-find-customers-with-positive-revenue-this-year](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 <!---LeetCode Topics End-->
