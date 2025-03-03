@@ -17,6 +17,7 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1749-sellers-with-no-sales](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1749-sellers-with-no-sales) |
 | [1801-average-time-of-process-per-machine](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
