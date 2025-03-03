@@ -26,4 +26,5 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2024-calculate-special-bonus](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2024-calculate-special-bonus) |
+| [2087-confirmation-rate](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
