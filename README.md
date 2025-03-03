@@ -16,6 +16,7 @@
 | [1153-product-sales-analysis-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1214-highest-grade-for-each-student](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1214-highest-grade-for-each-student) |
 | [1258-article-views-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1258-article-views-i) |
+| [1390-average-selling-price](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1415-students-and-examinations) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
