@@ -37,4 +37,8 @@
 | [2024-calculate-special-bonus](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2041-the-latest-login-in-2020) |
 | [2087-confirmation-rate](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2087-confirmation-rate) |
+## Math
+|  |
+| ------- |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
