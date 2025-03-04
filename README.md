@@ -19,6 +19,7 @@
 | [1179-game-play-analysis-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1179-game-play-analysis-i) |
 | [1214-highest-grade-for-each-student](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1214-highest-grade-for-each-student) |
 | [1258-article-views-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1258-article-views-i) |
+| [1317-monthly-transactions-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1339-team-scores-in-football-tournament](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1339-team-scores-in-football-tournament) |
 | [1390-average-selling-price](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1390-average-selling-price) |
