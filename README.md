@@ -10,6 +10,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0584-find-customer-referee) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0620-not-boring-movies) |
