@@ -24,6 +24,7 @@
 | [1541-top-travellers](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1541-top-travellers) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1749-sellers-with-no-sales](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1749-sellers-with-no-sales) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
