@@ -31,6 +31,7 @@
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1541-top-travellers](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1541-top-travellers) |
 | [1565-evaluate-boolean-expression](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1565-evaluate-boolean-expression) |
+| [1578-apples-oranges](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1578-apples-oranges) |
 | [1718-warehouse-manager](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1718-warehouse-manager) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1749-sellers-with-no-sales](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1749-sellers-with-no-sales) |
