@@ -49,6 +49,7 @@
 | [1827-invalid-tweets](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1837-daily-leads-and-partners) |
 | [1842-number-of-calls-between-two-persons](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1842-number-of-calls-between-two-persons) |
+| [1877-find-followers-count](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1974-find-customers-with-positive-revenue-this-year) |
