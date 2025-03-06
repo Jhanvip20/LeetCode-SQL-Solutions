@@ -21,6 +21,7 @@
 | [1179-game-play-analysis-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1179-game-play-analysis-i) |
 | [1182-game-play-analysis-iv](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1182-game-play-analysis-iv) |
 | [1214-highest-grade-for-each-student](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1214-highest-grade-for-each-student) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1258-article-views-i) |
 | [1291-immediate-food-delivery-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1291-immediate-food-delivery-i) |
 | [1292-immediate-food-delivery-ii](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1292-immediate-food-delivery-ii) |
