@@ -34,6 +34,7 @@
 | [1541-top-travellers](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1541-top-travellers) |
 | [1565-evaluate-boolean-expression](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1578-apples-oranges) |
+| [1639-friendly-movies-streamed-last-month](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1639-friendly-movies-streamed-last-month) |
 | [1654-customer-order-frequency](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1654-customer-order-frequency) |
 | [1718-warehouse-manager](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1718-warehouse-manager) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
