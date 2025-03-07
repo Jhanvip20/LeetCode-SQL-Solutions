@@ -64,6 +64,7 @@
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2024-calculate-special-bonus](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2041-the-latest-login-in-2020) |
+| [2057-count-salary-categories](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
