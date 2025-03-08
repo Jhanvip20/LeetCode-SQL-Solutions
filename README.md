@@ -52,6 +52,7 @@
 | [1541-top-travellers](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1541-top-travellers) |
 | [1565-evaluate-boolean-expression](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1578-apples-oranges) |
+| [1625-group-sold-products-by-the-date](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1625-group-sold-products-by-the-date) |
 | [1639-friendly-movies-streamed-last-month](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1639-friendly-movies-streamed-last-month) |
 | [1641-countries-you-can-safely-invest-in](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1654-customer-order-frequency](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1654-customer-order-frequency) |
