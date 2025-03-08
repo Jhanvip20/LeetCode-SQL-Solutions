@@ -59,6 +59,7 @@
 | [1749-sellers-with-no-sales](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1749-sellers-with-no-sales) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1801-average-time-of-process-per-machine) |
+| [1811-fix-names-in-a-table](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1837-daily-leads-and-partners) |
 | [1842-number-of-calls-between-two-persons](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1842-number-of-calls-between-two-persons) |
