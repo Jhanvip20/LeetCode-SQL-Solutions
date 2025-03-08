@@ -41,6 +41,7 @@
 | [1339-team-scores-in-football-tournament](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1339-team-scores-in-football-tournament) |
 | [1390-average-selling-price](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1415-students-and-examinations) |
+| [1480-movie-rating](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1541-top-travellers](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1541-top-travellers) |
