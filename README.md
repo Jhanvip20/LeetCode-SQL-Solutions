@@ -54,6 +54,7 @@
 | [1452-restaurant-growth](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1480-movie-rating) |
+| [1481-students-with-invalid-departments](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1481-students-with-invalid-departments) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1541-top-travellers](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1541-top-travellers) |
