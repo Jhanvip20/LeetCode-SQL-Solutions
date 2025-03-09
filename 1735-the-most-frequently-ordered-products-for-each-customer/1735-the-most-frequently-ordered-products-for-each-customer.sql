@@ -9,4 +9,4 @@ FROM (
     GROUP BY customer_id, product_id
 ) temp
 WHERE rnk = 1 
-ORDER BY customer_id, product_id
+ORDER BY customer_id, product_id;
