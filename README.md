@@ -76,6 +76,7 @@
 | [1877-find-followers-count](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1898-leetflex-banned-accounts](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1898-leetflex-banned-accounts) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1932-grand-slam-titles](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1932-grand-slam-titles) |
 | [1942-primary-department-for-each-employee](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1942-primary-department-for-each-employee) |
