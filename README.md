@@ -52,6 +52,7 @@
 | [1390-average-selling-price](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1390-average-selling-price) |
 | [1399-page-recommendations](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1399-page-recommendations) |
 | [1415-students-and-examinations](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1415-students-and-examinations) |
+| [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1438-find-the-team-size](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1438-find-the-team-size) |
 | [1452-restaurant-growth](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1462-list-the-products-ordered-in-a-period) |
