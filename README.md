@@ -62,6 +62,7 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1541-top-travellers](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1541-top-travellers) |
+| [1546-find-the-quiet-students-in-all-exams](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1546-find-the-quiet-students-in-all-exams) |
 | [1565-evaluate-boolean-expression](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1578-apples-oranges) |
 | [1625-group-sold-products-by-the-date](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1625-group-sold-products-by-the-date) |
