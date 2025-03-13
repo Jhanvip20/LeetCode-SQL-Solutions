@@ -106,6 +106,7 @@
 | [1981-maximum-transaction-each-day](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1981-maximum-transaction-each-day) |
 | [2024-calculate-special-bonus](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2041-the-latest-login-in-2020) |
+| [2046-page-recommendations-ii](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2046-page-recommendations-ii) |
 | [2057-count-salary-categories](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2087-confirmation-rate) |
 | [2097-strong-friendship](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2097-strong-friendship) |
