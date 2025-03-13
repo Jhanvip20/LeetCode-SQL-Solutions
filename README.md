@@ -110,6 +110,7 @@
 | [2097-strong-friendship](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2097-strong-friendship) |
 | [2110-employees-with-missing-information](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
+| [2335-finding-the-topic-of-each-post](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2335-finding-the-topic-of-each-post) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
