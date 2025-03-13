@@ -44,6 +44,7 @@
 | [1181-game-play-analysis-iii](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1181-game-play-analysis-iii) |
 | [1182-game-play-analysis-iv](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1182-game-play-analysis-iv) |
 | [1214-highest-grade-for-each-student](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1214-highest-grade-for-each-student) |
+| [1215-reported-posts](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1215-reported-posts) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1278-product-price-at-a-given-date) |
