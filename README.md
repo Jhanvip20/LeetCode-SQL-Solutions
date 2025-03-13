@@ -64,6 +64,7 @@
 | [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
 | [1438-find-the-team-size](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1438-find-the-team-size) |
 | [1452-restaurant-growth](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1452-restaurant-growth) |
+| [1453-ads-performance](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1453-ads-performance) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1480-movie-rating) |
 | [1481-students-with-invalid-departments](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1481-students-with-invalid-departments) |
