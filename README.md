@@ -24,6 +24,7 @@
 | [0595-big-countries](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0596-classes-more-than-5-students) |
 | [0597-friend-requests-i-overall-acceptance-rate](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0597-friend-requests-i-overall-acceptance-rate) |
+| [0601-human-traffic-of-stadium](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0603-consecutive-available-seats](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0603-consecutive-available-seats) |
 | [0607-sales-person](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/0607-sales-person) |
