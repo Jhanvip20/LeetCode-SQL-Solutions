@@ -68,6 +68,7 @@
 | [1405-all-people-report-to-the-given-manager](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1405-all-people-report-to-the-given-manager) |
 | [1415-students-and-examinations](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1415-students-and-examinations) |
 | [1420-find-the-start-and-end-number-of-continuous-ranges](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1420-find-the-start-and-end-number-of-continuous-ranges) |
+| [1425-weather-type-in-each-country](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1425-weather-type-in-each-country) |
 | [1438-find-the-team-size](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1438-find-the-team-size) |
 | [1452-restaurant-growth](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1452-restaurant-growth) |
 | [1453-ads-performance](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1453-ads-performance) |
