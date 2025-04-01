@@ -94,6 +94,7 @@
 | [1670-patients-with-a-condition](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1670-patients-with-a-condition) |
 | [1671-the-most-recent-three-orders](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1671-the-most-recent-three-orders) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1688-the-most-recent-orders-for-each-product) |
+| [1712-unique-orders-and-customers-per-month](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1712-unique-orders-and-customers-per-month) |
 | [1718-warehouse-manager](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1718-warehouse-manager) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/Jhanvip20/LeetCode-SQL-Solutions/tree/master/1734-bank-account-summary-ii) |
